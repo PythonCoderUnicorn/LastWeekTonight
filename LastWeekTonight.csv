@@ -1,178 +1,140 @@
 
-season,  episode,  Main segment,  Original air date ,  U.S. viewers (millions)
+season,  episode,  Main segment,  Original air date ,  U.S. viewers millions
 
-1,  1,  POM Wonderful LLC v. Coca-Cola Co.,  (2014-04-27),  1.11 
-1,  2,  Capital punishment,  (2014-05-04),  1.19
-1,  3,  Global warming controversy,  (2014-05-11),  1.01
-1,  4,  Right to be forgotten (Google Spain v AEPD and Mario Costeja González),  (2014-05-18), 1.03
-1,  5,  Net neutrality,  (2014-06-01),  0.99
-1,  6,  FIFA,  (2014-06-08), 0.95
-1,  7,  Immigration reform,  (2014-06-15), 0.91
-1,  8,  Dr. Oz's June 2014 Senate hearing and federal law on dietary supplements,  (2014-06-22), 0.89
-1,  9,  Burwell v. Hobby Lobby,  (2014-06-29), 0.85
-1, 10, Income inequality and wealth inequality, (2014-07-13), 0.84
-1, 11, Incarceration in the United States, (2014-07-20), 0.92
-1, 12, Nuclear weapons and the United States, (2014-07-27), 1.00
-1, 13, Native advertising, (2014-08-03), 0.96
-1, 14, Payday loans, (2014-08-10), 0.94
-1, 15, Shooting of Michael Brown and police militarization, (2014-08-17), 1.03
-1, 16, Student debt, (2014-09-07), 0.66
-1, 17, Scottish independence referendum, (2014-09-14), 0.70
-1, 18, United States embargo against Cuba &  Miss America 2015, (2014-09-21), 0.83
-1, 19, Drones, (2014-09-28), 0.71
-1, 20, Civil Asset Forfeiture, (2014-10-05), 0.66
-1, 21, Special Immigrant Visa, (2014-10-19), 0.62
-1, 22, Sugar, (2014-10-26), 0.76
-1, 23, American Legislative Exchange Council, (2014-11-02), 0.60
-1, 24, Lotteries, (2014-11-09), 0.80
-
-
-
-
-
-2, 1, Pharmaceutical marketing, (2015-02-08), 0.72
-2, 2, Tobacco, (2015-02-15), 0.51
-2, 3, Judicial elections, (2015-02-22), 0.47
-2, 4, Infrastructure, (2015-03-01), 0.71
-2, 5, Voting rights in the U.S. territories, (2015-03-08), 0.69
-2, 6, National Collegiate Athletic Association, (2015-03-15), 0.84
-2, 7, Municipal violations, (2015-03-22), 0.78
-2, 8, Government surveillance, (2015-04-05), 0.65
-2, 9, Internal Revenue Service, (2015-04-12), 1.32
-2, 10, Patent trolls, (2015-04-19), 1.45
-2, 11, Child labor in the fashion industry, (2015-04-26), 1.39
-2, 12, Standardized testing, (2015-05-03), 1.40
-2, 13, Paid parental leave, (2015-05-10), 1.20
-2, 14, Chicken contract farming, (2015-05-17), 1.04
-2, 15, "2015 FIFA corruption case (FIFA II)", (2015-05-31), 1.39
-2, 16, Bail, (2015-06-07), 1.26
-2, 17, Torture, (2015-06-14), 1.26
-2, 18, Online harassment and revenge porn, (2015-06-21), 1.37
-2, 19, Transgender Rights, (2015-06-28), 1.24
-2, 20, Stadium subsidies, (2015-07-12), 1.01
-2, 21, Food waste, (2015-07-19), 1.04
-2, 22, Mandatory sentencing in the United States, (2015-07-26), 0.94
-2, 23, Washington D.C. voting rights and statehood movement, (2015-08-02), 0.98
-2, 24, Sex education in the United States,(2015-08-09), 0.93
-2, 25, Predatory churches and televangelism, (2015-08-16), 1.01
-2, 26, LGBT rights in the United States, (2015-08-23), 1.03
-2, 27, Public defenders in the United States, (2015-09-13), 0.69
-2, 28, European migrant crisis, (2015-09-27), 0.66
-2, 29, Mental health in the United States, (2015-10-04), 0.68
-2, 30, North Dakota oil boom, (2015-10-11), 0.70
-2, 31, 2015 Canadian federal election, (2015-10-18), 0.72
-2, 32, 2015 United States elections, (2015-11-01), 0.69
-2, 33, Prisoner reentry, (2015-11-08), 0.91
-2, 34, Daily fantasy sports, (2015-11-15), 0.71
-2, 35, Penny manufacturing costs, 2015-11-22), 0.78
-
-
-
-
-3, 1, Voter ID laws in the United States, (2016-02-14), 1.02
-3, 2, Abortion in the United States, (2016-02-21), 0.92
-3, 3, Donald Trump presidential campaign, (2016-02-28), 0.70
-3, 4, Special-purpose districts, (2016-03-06), 0.82
-3, 5, FBI-Apple encryption dispute, (2016-03-13), 0.96 
-3, 6, Proposal for a border wall between the U.S. and Mexico, (2016-03-20), 0.93
-3, 7, Congressional fundraising, (2016-04-03), 0.95
-3, 8, Credit scores in the United States and background checks, (2016-04-10), 0.91
-3, 9, Flint water crisis and lead poisoning, (2016-04-17), 0.85
-3, 10, Puerto Rican government-debt crisis, (2016-04-24), 1.34
-3, 11, Scientific research and science journalism, (2016-05-08), 1.42
-3, 12, 911 emergency telephone number, (2016-05-15), 1.38
-3, 13, Democratic and Republican presidential primaries and the primary process, (2016-05-22), 1.27
-3, 14, Debt buying industry, (2016-06-05), 1.61
-3, 15, Retirement plans and financial advisers, (2016-06-12), 1.21
-3, 16, "2016 United Kingdom European Union membership referendum (Brexit)", (2016-06-19), 1.44
-3, 17, 2016 Summer Olympics and doping in sports, (2016-06-26), 1.53
-3, 18, 2016 Republican National Convention, (2016-07-24), 1.09
-3, 19, 2016 Democratic National Convention, (2016-07-31), 1.27
-3, 20, Decline of newspapers in the United States, (2016-08-07), 1.01
-3, 21, Car finance and subprime lending, (2016-08-14), 0.97
-3, 22, Charter schools in the United States, (2016-08-21), 1.15
-3, 23, Hillary Clinton's controversies and Donald Trump's controversies, (2016-09-25), 0.88
-3, 24, Police accountability and police reform, (2016-10-02), 1.10
-3, 25, Guantanamo Bay detention camp, (2016-10-09), 1.08
-3, 26, Jill Stein presidential campaign 2016 and Gary Johnson presidential campaign, (2016-10-16), 1.34
-3, 27, Opioid abuse, (2016-10-23), 1.18
-3, 28, School segregation in the United States, (2016-10-30), 1.03
-3, 29, Multi-level marketing, (2016-11-06), 1.05
-3, 30, 2016 United States election results, (2016-11-13), 1.17
+1,  1,  POM Wonderful LLC v. Coca-Cola Co.,  2014-04-27,  1.11 
+1,  2,  Capital punishment,  2014-05-04,  1.19
+1,  3,  Global warming controversy,  2014-05-11,  1.01
+1,  4,  Right to be forgotten Google Spain v AEPD and Mario Costeja González,  2014-05-18, 1.03
+1,  5,  Net neutrality,  2014-06-01,  0.99
+1,  6,  FIFA,  2014-06-08, 0.95
+1,  7,  Immigration reform,  2014-06-15, 0.91
+1,  8,  Dr. Oz's June 2014 Senate hearing and federal law on dietary supplements,  2014-06-22, 0.89
+1,  9,  Burwell v. Hobby Lobby,  2014-06-29, 0.85
+1, 10, Income inequality and wealth inequality, 2014-07-13, 0.84
+1, 11, Incarceration in the United States, 2014-07-20, 0.92
+1, 12, Nuclear weapons and the United States, 2014-07-27, 1.00
+1, 13, Native advertising, 2014-08-03, 0.96
+1, 14, Payday loans, 2014-08-10, 0.94
+1, 15, Shooting of Michael Brown and police militarization, 2014-08-17, 1.03
+1, 16, Student debt, 2014-09-07, 0.66
+1, 17, Scottish independence referendum, 2014-09-14, 0.70
+1, 18, United States embargo against Cuba &  Miss America 2015, 2014-09-21, 0.83
+1, 19, Drones, 2014-09-28, 0.71
+1, 20, Civil Asset Forfeiture, 2014-10-05, 0.66
+1, 21, Special Immigrant Visa, 2014-10-19, 0.62
+1, 22, Sugar, 2014-10-26, 0.76
+1, 23, American Legislative Exchange Council, 2014-11-02, 0.60
+1, 24, Lotteries, 2014-11-09, 0.80
 
 
 
 
 
+2, 1, Pharmaceutical marketing, 2015-02-08, 0.72
+2, 2, Tobacco, 2015-02-15, 0.51
+2, 3, Judicial elections, 2015-02-22, 0.47
+2, 4, Infrastructure, 2015-03-01, 0.71
+2, 5, Voting rights in the U.S. territories, 2015-03-08, 0.69
+2, 6, National Collegiate Athletic Association, 2015-03-15, 0.84
+2, 7, Municipal violations, 2015-03-22, 0.78
+2, 8, Government surveillance, 2015-04-05, 0.65
+2, 9, Internal Revenue Service, 2015-04-12, 1.32
+2, 10, Patent trolls, 2015-04-19, 1.45
+2, 11, Child labor in the fashion industry, 2015-04-26, 1.39
+2, 12, Standardized testing, 2015-05-03, 1.40
+2, 13, Paid parental leave, 2015-05-10, 1.20
+2, 14, Chicken contract farming, 2015-05-17, 1.04
+2, 15, "2015 FIFA corruption case FIFA II", 2015-05-31, 1.39
+2, 16, Bail, 2015-06-07, 1.26
+2, 17, Torture, 2015-06-14, 1.26
+2, 18, Online harassment and revenge porn, 2015-06-21, 1.37
+2, 19, Transgender Rights, 2015-06-28, 1.24
+2, 20, Stadium subsidies, 2015-07-12, 1.01
+2, 21, Food waste, 2015-07-19, 1.04
+2, 22, Mandatory sentencing in the United States, 2015-07-26, 0.94
+2, 23, Washington D.C. voting rights and statehood movement, 2015-08-02, 0.98
+2, 24, Sex education in the United States,2015-08-09, 0.93
+2, 25, Predatory churches and televangelism, 2015-08-16, 1.01
+2, 26, LGBT rights in the United States, 2015-08-23, 1.03
+2, 27, Public defenders in the United States, 2015-09-13, 0.69
+2, 28, European migrant crisis, 2015-09-27, 0.66
+2, 29, Mental health in the United States, 2015-10-04, 0.68
+2, 30, North Dakota oil boom, 2015-10-11, 0.70
+2, 31, 2015 Canadian federal election, 2015-10-18, 0.72
+2, 32, 2015 United States elections, 2015-11-01, 0.69
+2, 33, Prisoner reentry, 2015-11-08, 0.91
+2, 34, Daily fantasy sports, 2015-11-15, 0.71
+2, 35, Penny manufacturing costs, 2015-11-22, 0.78
 
-4, 1, Trump vs. Truth, (2017-02-12), 1.19
-4, 2, Vladimir Putin and Russia–United States relations, (2017-02-19), 1.25
-4, 3, Patient Protection and Affordable Care Act (Obamacare)  Republican replacement ideas, (2017-02-26), 0.72
-4, 4, Tibetan sovereignty debate and Human rights in Tibet, (2017-03-05), 1.28
-4, 5, American Health Care Act, (2017-03-12), 1.12
-4, 6, United States federal budget, (2017-03-19), 1.03
-4, 7, Cannabis in the United States, (2017-04-02), 1.18
-4, 8, Gerrymandering in the United States, (2017-04-09), 1.15
-4, 9, 2017 French presidential election, (2017-04-16), 1.18
-4, 10, Ivanka Trump and Jared Kushner, (2017-04-23), 1.19
-4, 11, Net neutrality II, (2017-05-07), 1.18
-4, 12, Kidney Dialysis and DaVita Inc., (2017-05-14), 1.36
-4, 13, Stupid Watergate, (2017-05-21), 1.42
-4, 14, United States withdrawal from the Paris Agreement, (2017-06-04), 1.22
-4, 15, 2017 United Kingdom general election and Brexit negotiations, (2017-06-11), 1.24
-4, 16, Coal mining in the United States and Bob Murray, (2017-06-18), 1.28
-4, 17, Vaccine safety, (2017-06-25), 1.31
-4, 18, Local news and Sinclair Broadcast Group, (2017-07-02), 1.14
-4, 19, Alex Jones and InfoWars, (2017-07-30), 1.76
-4, 20, United States Border Patrol, (2017-08-06), 1.75
-4, 21, 2017 North Korea crisis, (2017-08-13), 1.93
-4, 22, Nuclear waste and waste management, (2017-08-20), 1.76
-4, 23, Presidential pardon of Joe Arpaio, (2017-09-10), 0.97
-4, 24, Corporate consolidation, (2017-09-24), 1.25
-4, 25, Forensic evidence, (2017-10-01), 1.27
-4, 26, Confederate monuments, (2017-10-08), 1.30
-4, 27, Equifax security breach, (2017-10-15), 1.25
-4, 28, National Flood Insurance Program, (2017-10-29), 0.96
-4, 29, Economic development incentives, (2017-11-05), 1.01
-4, 30, Presidency of Donald Trump, (2017-11-12), 1.20
+
+
+
+3, 1, Voter ID laws in the United States, 2016-02-14, 1.02
+3, 2, Abortion in the United States, 2016-02-21, 0.92
+3, 3, Donald Trump presidential campaign, 2016-02-28, 0.70
+3, 4, Special-purpose districts, 2016-03-06, 0.82
+3, 5, FBI-Apple encryption dispute, 2016-03-13, 0.96 
+3, 6, Proposal for a border wall between the U.S. and Mexico, 2016-03-20, 0.93
+3, 7, Congressional fundraising, 2016-04-03, 0.95
+3, 8, Credit scores in the United States and background checks, 2016-04-10, 0.91
+3, 9, Flint water crisis and lead poisoning, 2016-04-17, 0.85
+3, 10, Puerto Rican government-debt crisis, 2016-04-24, 1.34
+3, 11, Scientific research and science journalism, 2016-05-08, 1.42
+3, 12, 911 emergency telephone number, 2016-05-15, 1.38
+3, 13, Democratic and Republican presidential primaries and the primary process, 2016-05-22, 1.27
+3, 14, Debt buying industry, 2016-06-05, 1.61
+3, 15, Retirement plans and financial advisers, 2016-06-12, 1.21
+3, 16, "2016 United Kingdom European Union membership referendum Brexit", 2016-06-19, 1.44
+3, 17, 2016 Summer Olympics and doping in sports, 2016-06-26, 1.53
+3, 18, 2016 Republican National Convention, 2016-07-24, 1.09
+3, 19, 2016 Democratic National Convention, 2016-07-31, 1.27
+3, 20, Decline of newspapers in the United States, 2016-08-07, 1.01
+3, 21, Car finance and subprime lending, 2016-08-14, 0.97
+3, 22, Charter schools in the United States, 2016-08-21, 1.15
+3, 23, Hillary Clinton's controversies and Donald Trump's controversies, 2016-09-25, 0.88
+3, 24, Police accountability and police reform, 2016-10-02, 1.10
+3, 25, Guantanamo Bay detention camp, 2016-10-09, 1.08
+3, 26, Jill Stein presidential campaign 2016 and Gary Johnson presidential campaign, 2016-10-16, 1.34
+3, 27, Opioid abuse, 2016-10-23, 1.18
+3, 28, School segregation in the United States, 2016-10-30, 1.03
+3, 29, Multi-level marketing, 2016-11-06, 1.05
+3, 30, 2016 United States election results, 2016-11-13, 1.17
 
 
 
 
 
 
-
-
-5, 1, Trump vs. The World (soft power), (2018-02-18), 1.20
-5, 2, 2018 Italian general election,  (2018-02-25), 1.11
-5, 3, NRA TV, (2018-03-04), 0.94
-5, 4, Bitcoin and cryptocurrencies, (2018-03-11), 1.08
-5, 5, Mike Pence and the announcement of the book A Day in the Life of Marlon Bundo, (2018-03-18), 1.23
-5, 6, Executive Office for Immigration Review, (2018-04-01), 1.26
-5, 7, Crisis pregnancy centers, (2018-04-08), 1.13
-5, 8, Corporate tax avoidance in the United States & Tax Cuts and Jobs Act of 2017, (2018-04-15), 1.23
-5, 9, Iran-United States relations &  Iranian nuclear deal, (2018-04-22), 1.19
-5, 10, Rudy Giuliani,(2018-05-06), 1.24
-5, 11, Crisis in Venezuela, (2018-05-13), 1.03
-5, 12, Drug rehabilitation clinics, (2018-05-20), 1.281
-5, 13, Legal guardianship in elder care, (2018-06-03), 1.14
-5, 14, Stupid Watergate II &  Special Counsel investigation, (2018-06-10), 1.14
-5, 15, China and Xi Jinping, (2018-06-17), 1.19
-5, 16, 2018 Mexican elections, (2018-06-24), 0.94
-5, 17, CRISPR and genome editing, (2018-07-01), 1.12
-5, 18, Sexual harassment in the workplace in the United States, (2018-07-29), 0.92
-5, 19, District attorneys in the United States, (2018-08-05), 0.99
-5, 20, Astroturfing, (2018-08-12), 1.03
-5, 21, Trump tariffs, (2018-08-19), 1.17
-5, 22, Felony voting disenfranchisement, (2018-09-09), 0.90
-5, 23, Facebook and the 2017 Rohingya persecution in Myanmar, (2018-09-23), 1.011
-5, 24, Brett Kavanaugh sexual assault allegations, (2018-09-30), 1.161
-5, 25, Jair Bolsonaro and the 2018 Brazilian general election, (2018-10-07), 1.001
-5, 26, Disappearance of Jamal Khashoggi and Saudi Arabia–United States relations, (2018-10-14), 0.921
-5, 27, State attorneys general,(2018-10-28), 0.921
-5, 28, Trump administration family separation policy, (2018-11-04), 0.651
-5, 29, Drain the Swamp, (2018-11-11), 0.781
-5, 30, Authoritarianism, (2018-11-18), 0.761
+4, 1, Trump vs. Truth, 2017-02-12, 1.19
+4, 2, Vladimir Putin and Russia–United States relations, 2017-02-19, 1.25
+4, 3, Patient Protection and Affordable Care Act Obamacare  Republican replacement ideas, 2017-02-26, 0.72
+4, 4, Tibetan sovereignty debate and Human rights in Tibet, 2017-03-05, 1.28
+4, 5, American Health Care Act, 2017-03-12, 1.12
+4, 6, United States federal budget, 2017-03-19, 1.03
+4, 7, Cannabis in the United States, 2017-04-02, 1.18
+4, 8, Gerrymandering in the United States, 2017-04-09, 1.15
+4, 9, 2017 French presidential election, 2017-04-16, 1.18
+4, 10, Ivanka Trump and Jared Kushner, 2017-04-23, 1.19
+4, 11, Net neutrality II, 2017-05-07, 1.18
+4, 12, Kidney Dialysis and DaVita Inc., 2017-05-14, 1.36
+4, 13, Stupid Watergate, 2017-05-21, 1.42
+4, 14, United States withdrawal from the Paris Agreement, 2017-06-04, 1.22
+4, 15, 2017 United Kingdom general election and Brexit negotiations, 2017-06-11, 1.24
+4, 16, Coal mining in the United States and Bob Murray, 2017-06-18, 1.28
+4, 17, Vaccine safety, 2017-06-25, 1.31
+4, 18, Local news and Sinclair Broadcast Group, 2017-07-02, 1.14
+4, 19, Alex Jones and InfoWars, 2017-07-30, 1.76
+4, 20, United States Border Patrol, 2017-08-06, 1.75
+4, 21, 2017 North Korea crisis, 2017-08-13, 1.93
+4, 22, Nuclear waste and waste management, 2017-08-20, 1.76
+4, 23, Presidential pardon of Joe Arpaio, 2017-09-10, 0.97
+4, 24, Corporate consolidation, 2017-09-24, 1.25
+4, 25, Forensic evidence, 2017-10-01, 1.27
+4, 26, Confederate monuments, 2017-10-08, 1.30
+4, 27, Equifax security breach, 2017-10-15, 1.25
+4, 28, National Flood Insurance Program, 2017-10-29, 0.96
+4, 29, Economic development incentives, 2017-11-05, 1.01
+4, 30, Presidency of Donald Trump, 2017-11-12, 1.20
 
 
 
@@ -181,77 +143,36 @@ season,  episode,  Main segment,  Original air date ,  U.S. viewers (millions)
 
 
 
-
-
-
-6, 1, Aftermath of Brexit, (2019-02-17), 1.031
-6, 2, Psychics, (2019-02-24), 0.841
-6, 3, Automation and technological unemployment, (2019-03-03), 0.971
-6, 4, Robocalls,(2019-03-10), 1.081
-6, 5, Public and online shaming, (2019-03-17), 0.951
-6, 6, World Wrestling Entertainment and Vince McMahon, (2019-03-31), 0.871
-6, 7, Mobile homes and Frank Rolfe, (2019-04-07), 0.921
-6, 8, "Update on opioid abuse and Richard Sackler (Opioids II)", (2019-04-14), 1.341
-6, 9, Mueller report, (2019-04-21), 1.311
-6, 10, Lethal injection and midazolam, (2019-05-05), 1.201
-6, 11, Green New Deal and carbon pricing, (2019-05-12), 1.161
-6, 12, Autopsies coroners and medical examiners, (2019-05-19), 1.631
-6, 13, Medical device design, (2019-06-02), 0.901
-6, 14, Equal Rights Amendment and Phyllis Schlafly, (2019-06-09), 0.771
-6, 15, Impeachment in the United States and efforts to impeach Donald Trump, (2019-06-16), 0.921
-6, 16, Mount Everest and Sherpa people, (2019-06-23), 0.921
-6, 17, E-commerce  warehouse working conditions  Amazon and business logistics, (2019-06-30), 0.841
-6, 18, Boris Johnson, (2019-07-28), 0.711
-6, 19, Penal labor in the United States and Securus Technologies, (2019-08-04), 0.811
-6, 20, Gurbanguly Berdimuhamedow and Guinness World Records, (2019-08-11), 0.851
-6, 21, Sexism and racism in medicine, (2019-08-18), 0.921
-6, 22, Filibuster in the United States Senate, (2019-09-08), 0.741
-6, 23, Legal Immigration to the United States, (2019-09-15), 0.651
-6, 24, Compounding pharmacies, (2019-09-29), 0.821
-6, 25, History of the People's Republic of China and its one-child policy, (2019-10-06), 0.811
-6, 26, Weather forecasting/  Barry Lee Myers and the National Weather Service, (2019-10-13), 0.781
-6, 27, American abandonment of Kurds in Syria, (2019-10-27), 0.891
-6, 28, Election security in the United States, (2019-11-03), 0.721
-6, 29, Bob Murray and SLAPP Suits, (2019-11-10), 0.731
-6, 30, 2020 United States census, 2019-11-17), 0.881
-
-
-
-
-
-
-
-
-7, 1, Medicare for All,  (2020-02-16), 0.821
-7, 2, Narendra Modi and Citizenship Amendment Act protests,  (2020-02-23), 0.751
-7, 3, "COVID-19 pandemic and US government response (Coronavirus)", (2020-03-01), 0.931
-7, 4, Sheriffs in the United States,  (2020-03-08), 0.951
-7, 5, "COVID-19 pandemic,  US government response,  and prevention of COVID–19 (Coronavirus II)", (2020-03-15), 0.891
-7, 6, "COVID-19 pandemic related shortages and social distancing (""Coronavirus III"")",  (2020-03-29), 0.971
-7, 7, One America News Network, (2020-04-05), 0.97
-7, 8, "Essential workers and unemployment in the COVID-19 recession (Coronavirus IV)", (2020-04-12), 0.91
-7, 9, "COVID-19 misinformation (Coronavirus V)",  (2020-04-19), 1.04
-7, 10, "COVID-19 testing (Coronavirus VI)", (2020-05-03), 0.95
-7, 11, United States Postal Service and Postal Accountability and Enhancement Act of 2006, (2020-05-10), 0.83
-7, 12, "Impact of the COVID-19 pandemic on sports (Coronavirus VII)/  Jelle's Marble Runs and League", (2020-05-17), 0.90
-7, 13, Postal voting in the United States,  (2020-05-31), 0.83
-7, 14, Police brutality in the United States and George Floyd protests,  (2020-06-07), 0.80
-7, 15, Facial recognition system/  Clearview AI and Hoan Ton-That, (2020-06-14), 0.67
-7, 16, "COVID-19 pandemic in prisons and jails (Coronavirus VIII)", (2020-06-21), 0.86
-7, 17, "Effects of the COVID-19 pandemic on evictions (Coronavirus IX)", (2020-06-28), 0.882
-7, 18, "Conspiracy theories related to the COVID-19 pandemic (Coronavirus X)",(2020-07-19), 0.862
-7, 19, Xinjiang re-education camps,  (2020-07-26), 0.732
-7, 20, United States history, (2020-08-02), 0.882
-7, 21, Jury duty and jury selection in the United States,  (2020-08-16), 0.662
-7, 22, "Border wall and the arrest of Steve Bannon (Border Wall II)", (2020-08-23), 0.822
-7, 23, 2020 Republican National Convention/  Kenosha protests, (2020-08-30), 0.832
-7, 24, Amy Coney Barrett Supreme Court nomination,  (2020-09-27), 0.752
-7, 25, 2020 United States elections,  (2020-10-04), 0.732
-7, 26, World Health Organization, (2020-10-18), 0.812
-7, 27, Asylum, (2020-10-25), 0.882
-7, 28, Trump and the coronavirus/  William Barr and unitary executive theory,  (2020-11-01), 0.672
-7, 29, 2020 United States election results, (2020-11-08), 1.062
-7, 30, 2020 United States elections and consequences of Trump's refusal to concede,  (2020-11-15), 0.932
+5, 1, Trump vs. The World soft power, 2018-02-18, 1.20
+5, 2, 2018 Italian general election,  2018-02-25, 1.11
+5, 3, NRA TV, 2018-03-04, 0.94
+5, 4, Bitcoin and cryptocurrencies, 2018-03-11, 1.08
+5, 5, Mike Pence and the announcement of the book A Day in the Life of Marlon Bundo, 2018-03-18, 1.23
+5, 6, Executive Office for Immigration Review, 2018-04-01, 1.26
+5, 7, Crisis pregnancy centers, 2018-04-08, 1.13
+5, 8, Corporate tax avoidance in the United States & Tax Cuts and Jobs Act of 2017, 2018-04-15, 1.23
+5, 9, Iran-United States relations &  Iranian nuclear deal, 2018-04-22, 1.19
+5, 10, Rudy Giuliani,2018-05-06, 1.24
+5, 11, Crisis in Venezuela, 2018-05-13, 1.03
+5, 12, Drug rehabilitation clinics, 2018-05-20, 1.281
+5, 13, Legal guardianship in elder care, 2018-06-03, 1.14
+5, 14, Stupid Watergate II &  Special Counsel investigation, 2018-06-10, 1.14
+5, 15, China and Xi Jinping, 2018-06-17, 1.19
+5, 16, 2018 Mexican elections, 2018-06-24, 0.94
+5, 17, CRISPR and genome editing, 2018-07-01, 1.12
+5, 18, Sexual harassment in the workplace in the United States, 2018-07-29, 0.92
+5, 19, District attorneys in the United States, 2018-08-05, 0.99
+5, 20, Astroturfing, 2018-08-12, 1.03
+5, 21, Trump tariffs, 2018-08-19, 1.17
+5, 22, Felony voting disenfranchisement, 2018-09-09, 0.90
+5, 23, Facebook and the 2017 Rohingya persecution in Myanmar, 2018-09-23, 1.011
+5, 24, Brett Kavanaugh sexual assault allegations, 2018-09-30, 1.161
+5, 25, Jair Bolsonaro and the 2018 Brazilian general election, 2018-10-07, 1.001
+5, 26, Disappearance of Jamal Khashoggi and Saudi Arabia–United States relations, 2018-10-14, 0.921
+5, 27, State attorneys general,2018-10-28, 0.921
+5, 28, Trump administration family separation policy, 2018-11-04, 0.651
+5, 29, Drain the Swamp, 2018-11-11, 0.781
+5, 30, Authoritarianism, 2018-11-18, 0.761
 
 
 
@@ -262,36 +183,37 @@ season,  episode,  Main segment,  Original air date ,  U.S. viewers (millions)
 
 
 
-8, 1, The next pandemic, (2021-02-14), 0.692
-8, 2, Meat packing during the COVID-19 pandemic,  (2021-02-21), 0.752
-8, 3, Police raids and no-knock warrants in the United States,  (2021-02-28), 0.662
-8, 4, Unemployment in the United States, (2021-03-07), 0.592
-8, 5, Tucker Carlson, (2021-03-14), 0.572
-8, 6, Plastic, (2021-03-21), 0.692
-8, 7, National debt of the United States, (2021-04-04), 0.732
-8, 8, Nursing home care in the United States,  (2021-04-11), 0.722
-8, 9, Bankruptcy in the United States,  (2021-04-18), 0.692
-8, 10, COVID-19 vaccine and vaccine hesitancy,  (2021-05-02), 0.852
-8, 11, Afro-textured hair and discrimination based on hair texture in the United States,  (2021-05-09), 0.742
-8, 12, Stand-your-ground laws in the United States,  (2021-05-16), 0.802
-8, 13, Sponsored content,(2021-05-23), 0.772
-8, 14, Asian Americans and racial discrimination,  (2021-06-06), 0.642
-8, 15, Effect of climate in prisons,  (2021-06-13), 0.632
-8, 16, PACE financing, (2021-06-20), 0.632
-8, 17, Health care sharing ministries,  (2021-06-27), 0.562
-8, 18, Housing discrimination in the United States, (2021-07-25), 0.432
-8, 19, Emergency medical services,  (2021-08-01), 0.512
-8, 20, "Sackler family (Opioids III)",  (2021-08-08), 0.562
-8, 21, Ransomware,  (2021-08-15), 0.552
-8, 22, Afghanistan troops withdrawal and 2021 Taliban offensive,  (2021-08-22), 0.602
-8, 23, Alexander Lukashenko, (2021-09-12), 0.602
-8, 24, Voting rights in the United States, (2021-09-26), 0.592
-8, 25, Per- and polyfluoroalkyl substances, (2021-10-03), 0.422
-8, 26, Misinformation among diasporas, (2021-10-10), 0.422
-8, 27, Political status of Taiwan, (2021-10-24), 0.552
-8, 28, Homelessness in the United States,  (2021-10-31), 0.432
-8, 29, The modern American power grid and the Unified Smart Grid, (2021-11-07), 0.472
-8, 30, Union busting,  (2021-11-14), 0.562
+
+6, 1, Aftermath of Brexit, 2019-02-17, 1.031
+6, 2, Psychics, 2019-02-24, 0.841
+6, 3, Automation and technological unemployment, 2019-03-03, 0.971
+6, 4, Robocalls,2019-03-10, 1.081
+6, 5, Public and online shaming, 2019-03-17, 0.951
+6, 6, World Wrestling Entertainment and Vince McMahon, 2019-03-31, 0.871
+6, 7, Mobile homes and Frank Rolfe, 2019-04-07, 0.921
+6, 8, "Update on opioid abuse and Richard Sackler Opioids II", 2019-04-14, 1.341
+6, 9, Mueller report, 2019-04-21, 1.311
+6, 10, Lethal injection and midazolam, 2019-05-05, 1.201
+6, 11, Green New Deal and carbon pricing, 2019-05-12, 1.161
+6, 12, Autopsies coroners and medical examiners, 2019-05-19, 1.631
+6, 13, Medical device design, 2019-06-02, 0.901
+6, 14, Equal Rights Amendment and Phyllis Schlafly, 2019-06-09, 0.771
+6, 15, Impeachment in the United States and efforts to impeach Donald Trump, 2019-06-16, 0.921
+6, 16, Mount Everest and Sherpa people, 2019-06-23, 0.921
+6, 17, E-commerce  warehouse working conditions  Amazon and business logistics, 2019-06-30, 0.841
+6, 18, Boris Johnson, 2019-07-28, 0.711
+6, 19, Penal labor in the United States and Securus Technologies, 2019-08-04, 0.811
+6, 20, Gurbanguly Berdimuhamedow and Guinness World Records, 2019-08-11, 0.851
+6, 21, Sexism and racism in medicine, 2019-08-18, 0.921
+6, 22, Filibuster in the United States Senate, 2019-09-08, 0.741
+6, 23, Legal Immigration to the United States, 2019-09-15, 0.651
+6, 24, Compounding pharmacies, 2019-09-29, 0.821
+6, 25, History of the People's Republic of China and its one-child policy, 2019-10-06, 0.811
+6, 26, Weather forecasting/  Barry Lee Myers and the National Weather Service, 2019-10-13, 0.781
+6, 27, American abandonment of Kurds in Syria, 2019-10-27, 0.891
+6, 28, Election security in the United States, 2019-11-03, 0.721
+6, 29, Bob Murray and SLAPP Suits, 2019-11-10, 0.731
+6, 30, 2020 United States census, 2019-11-17, 0.881
 
 
 
@@ -299,35 +221,113 @@ season,  episode,  Main segment,  Original air date ,  U.S. viewers (millions)
 
 
 
-9, 1, Critical race theory,  (2022-02-20), 0.592
-9, 2, Decriminalization of sex work,  (2022-02-27), 0.482
-9, 3, Wrongful convictions, (2022-03-06), 0.582
-9, 4, Ticket resale, (2022-03-13), 0.662
-9, 5, Harm reduction of recreational drug use,  (2022-03-27), 0.462
-9, 6, Trucking industry in the United States, (2022-04-03), 0.472
-9, 7, Data brokers,(2022-04-10), 0.492
-9, 8, Police interrogations and false confessions, (2022-04-17), 0.662
-9, 9, Environmental racism, (2022-05-01), 0.572
-9, 10, Leaked draft opinion of Dobbs v. Jackson Women's Health Organization and 2022 Philippine presidential election, (2022-05-08), 0.562
-9, 11, Electric utilities,  (2022-05-15), 0.522
-9, 12, Subway advertising practices and franchise operations, (2022-05-22), 0.452
-9, 13, School resource officers and school shootings, (2022-06-05), 0.462
-9, 14, Big Tech monopolies,  (2022-06-12), 0.422
-9, 15, Rental housing in the United States, (2022-06-19), 0.512
-9, 16, Colorado River Compact and aridification of the Western U.S.,  (2022-06-26), 0.462
-9, 17, 2021–2022 inflation surge, (2022-07-24), 0.472
-9, 18, Mental health care in the United States,  (2022-07-31), 0.452
-9, 19, 2022 monkeypox outbreak, (2022-08-07), 0.572
-9, 20, 2022 in Afghanistan treatment of women by the Taliban  and U.S. sanctions' role in the humanitarian crisis, (2022-08-14), 0.552
-9, 21, Carbon offsets,  (2022-08-21), 0.622
-9, 22, Impact of the Law & Order franchise on the criminal justice system,  (2022-09-11), 0.562
-9, 23, Presidency of Jair Bolsonaro and the 2022 Brazilian general election, (2022-09-25), 0.522
-9, 24, Cultural repatriation of looted artifacts and the antiquities trade,  (2022-10-02), 0.482
-9, 25, Crime reporting in the American news media, (2022-10-09), 0.492
-9, 26, "Rights in the US concerning transgender youth (Transgender Rights II)", (2022-10-16), 0.502
-9, 27, "Bail reform in the United States (Bail II)",  (2022-10-30), 0.452
-9, 28, Election conspiracy theories and attempts to overturn the 2020 and 2022 United States elections, (2022-11-06), 0.382
-9, 29, The monarchy of the United Kingdom its finances and the royal family's role in British colonialism, (2022-11-13), 0.452
-9, 30, "2022 FIFA World Cup controversies (FIFA III)", (2022-11-20), 0.392
+
+7, 1, Medicare for All,  2020-02-16, 0.821
+7, 2, Narendra Modi and Citizenship Amendment Act protests,  2020-02-23, 0.751
+7, 3, "COVID-19 pandemic and US government response Coronavirus", 2020-03-01, 0.931
+7, 4, Sheriffs in the United States,  2020-03-08, 0.951
+7, 5, "COVID-19 pandemic,  US government response,  and prevention of COVID–19 Coronavirus II", 2020-03-15, 0.891
+7, 6, "COVID-19 pandemic related shortages and social distancing ""Coronavirus III""",  2020-03-29, 0.971
+7, 7, One America News Network, 2020-04-05, 0.97
+7, 8, "Essential workers and unemployment in the COVID-19 recession Coronavirus IV", 2020-04-12, 0.91
+7, 9, "COVID-19 misinformation Coronavirus V",  2020-04-19, 1.04
+7, 10, "COVID-19 testing Coronavirus VI", 2020-05-03, 0.95
+7, 11, United States Postal Service and Postal Accountability and Enhancement Act of 2006, 2020-05-10, 0.83
+7, 12, "Impact of the COVID-19 pandemic on sports Coronavirus VII/  Jelle's Marble Runs and League", 2020-05-17, 0.90
+7, 13, Postal voting in the United States,  2020-05-31, 0.83
+7, 14, Police brutality in the United States and George Floyd protests,  2020-06-07, 0.80
+7, 15, Facial recognition system/  Clearview AI and Hoan Ton-That, 2020-06-14, 0.67
+7, 16, "COVID-19 pandemic in prisons and jails Coronavirus VIII", 2020-06-21, 0.86
+7, 17, "Effects of the COVID-19 pandemic on evictions Coronavirus IX", 2020-06-28, 0.882
+7, 18, "Conspiracy theories related to the COVID-19 pandemic Coronavirus X",2020-07-19, 0.862
+7, 19, Xinjiang re-education camps,  2020-07-26, 0.732
+7, 20, United States history, 2020-08-02, 0.882
+7, 21, Jury duty and jury selection in the United States,  2020-08-16, 0.662
+7, 22, "Border wall and the arrest of Steve Bannon Border Wall II", 2020-08-23, 0.822
+7, 23, 2020 Republican National Convention/  Kenosha protests, 2020-08-30, 0.832
+7, 24, Amy Coney Barrett Supreme Court nomination,  2020-09-27, 0.752
+7, 25, 2020 United States elections,  2020-10-04, 0.732
+7, 26, World Health Organization, 2020-10-18, 0.812
+7, 27, Asylum, 2020-10-25, 0.882
+7, 28, Trump and the coronavirus/  William Barr and unitary executive theory,  2020-11-01, 0.672
+7, 29, 2020 United States election results, 2020-11-08, 1.062
+7, 30, 2020 United States elections and consequences of Trump's refusal to concede,  2020-11-15, 0.932
+
+
+
+
+
+
+
+
+
+
+8, 1, The next pandemic, 2021-02-14, 0.692
+8, 2, Meat packing during the COVID-19 pandemic,  2021-02-21, 0.752
+8, 3, Police raids and no-knock warrants in the United States,  2021-02-28, 0.662
+8, 4, Unemployment in the United States, 2021-03-07, 0.592
+8, 5, Tucker Carlson, 2021-03-14, 0.572
+8, 6, Plastic, 2021-03-21, 0.692
+8, 7, National debt of the United States, 2021-04-04, 0.732
+8, 8, Nursing home care in the United States,  2021-04-11, 0.722
+8, 9, Bankruptcy in the United States,  2021-04-18, 0.692
+8, 10, COVID-19 vaccine and vaccine hesitancy,  2021-05-02, 0.852
+8, 11, Afro-textured hair and discrimination based on hair texture in the United States,  2021-05-09, 0.742
+8, 12, Stand-your-ground laws in the United States,  2021-05-16, 0.802
+8, 13, Sponsored content,2021-05-23, 0.772
+8, 14, Asian Americans and racial discrimination,  2021-06-06, 0.642
+8, 15, Effect of climate in prisons,  2021-06-13, 0.632
+8, 16, PACE financing, 2021-06-20, 0.632
+8, 17, Health care sharing ministries,  2021-06-27, 0.562
+8, 18, Housing discrimination in the United States, 2021-07-25, 0.432
+8, 19, Emergency medical services,  2021-08-01, 0.512
+8, 20, "Sackler family Opioids III",  2021-08-08, 0.562
+8, 21, Ransomware,  2021-08-15, 0.552
+8, 22, Afghanistan troops withdrawal and 2021 Taliban offensive,  2021-08-22, 0.602
+8, 23, Alexander Lukashenko, 2021-09-12, 0.602
+8, 24, Voting rights in the United States, 2021-09-26, 0.592
+8, 25, Per- and polyfluoroalkyl substances, 2021-10-03, 0.422
+8, 26, Misinformation among diasporas, 2021-10-10, 0.422
+8, 27, Political status of Taiwan, 2021-10-24, 0.552
+8, 28, Homelessness in the United States,  2021-10-31, 0.432
+8, 29, The modern American power grid and the Unified Smart Grid, 2021-11-07, 0.472
+8, 30, Union busting,  2021-11-14, 0.562
+
+
+
+
+
+
+
+9, 1, Critical race theory,  2022-02-20, 0.592
+9, 2, Decriminalization of sex work,  2022-02-27, 0.482
+9, 3, Wrongful convictions, 2022-03-06, 0.582
+9, 4, Ticket resale, 2022-03-13, 0.662
+9, 5, Harm reduction of recreational drug use,  2022-03-27, 0.462
+9, 6, Trucking industry in the United States, 2022-04-03, 0.472
+9, 7, Data brokers,2022-04-10, 0.492
+9, 8, Police interrogations and false confessions, 2022-04-17, 0.662
+9, 9, Environmental racism, 2022-05-01, 0.572
+9, 10, Leaked draft opinion of Dobbs v. Jackson Women's Health Organization and 2022 Philippine presidential election, 2022-05-08, 0.562
+9, 11, Electric utilities,  2022-05-15, 0.522
+9, 12, Subway advertising practices and franchise operations, 2022-05-22, 0.452
+9, 13, School resource officers and school shootings, 2022-06-05, 0.462
+9, 14, Big Tech monopolies,  2022-06-12, 0.422
+9, 15, Rental housing in the United States, 2022-06-19, 0.512
+9, 16, Colorado River Compact and aridification of the Western U.S.,  2022-06-26, 0.462
+9, 17, 2021–2022 inflation surge, 2022-07-24, 0.472
+9, 18, Mental health care in the United States,  2022-07-31, 0.452
+9, 19, 2022 monkeypox outbreak, 2022-08-07, 0.572
+9, 20, 2022 in Afghanistan treatment of women by the Taliban  and U.S. sanctions' role in the humanitarian crisis, 2022-08-14, 0.552
+9, 21, Carbon offsets,  2022-08-21, 0.622
+9, 22, Impact of the Law & Order franchise on the criminal justice system,  2022-09-11, 0.562
+9, 23, Presidency of Jair Bolsonaro and the 2022 Brazilian general election, 2022-09-25, 0.522
+9, 24, Cultural repatriation of looted artifacts and the antiquities trade,  2022-10-02, 0.482
+9, 25, Crime reporting in the American news media, 2022-10-09, 0.492
+9, 26, "Rights in the US concerning transgender youth Transgender Rights II", 2022-10-16, 0.502
+9, 27, "Bail reform in the United States Bail II",  2022-10-30, 0.452
+9, 28, Election conspiracy theories and attempts to overturn the 2020 and 2022 United States elections, 2022-11-06, 0.382
+9, 29, The monarchy of the United Kingdom its finances and the royal family's role in British colonialism, 2022-11-13, 0.452
+9, 30, "2022 FIFA World Cup controversies FIFA III", 2022-11-20, 0.392
 
 
